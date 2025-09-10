@@ -10,10 +10,9 @@ public class Hello {
     public Hello(String message) {
         this.message = message;
     }
-    
-    /*
-    public void say() {
-        System.out.println(message);
+
+    public String say() {
+        return message;
     }
     */
 
